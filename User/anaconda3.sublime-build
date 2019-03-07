@@ -1,0 +1,6 @@
+{
+"cmd": ["python", "-u", "$file"],
+"path":"C:/Users/broadsun/AppData/Local/Continuum/anaconda3/envs/tensorflow/",
+"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+"selector": "source.python"
+}

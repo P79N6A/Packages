@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://dev-proxy.oa.com:8080",
+	"https_proxy": "https://dev-proxy.oa.com:8080",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"C++ Snippets",
+		"ConvertToUTF8",
+		"Markdown HTML Preview",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Package Control",
+		"Package Syncing",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"Strapdown Markdown Preview",
+		"SublimeAStyleFormatter",
+		"sublimelint",
+		"SublimeLinter-clang",
+		"SublimeREPL",
+		"WordHighlight"
+	]
+}
